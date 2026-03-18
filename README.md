@@ -2,7 +2,7 @@
 
 O programa funciona via terminal e permite gerenciar contatos de forma simples.
 
-## 🎯 Objetivo
+## Objetivo
 
 Projeto desenvolvido para praticar **Python e Programação Orientada a Objetos (POO)** durante os estudos de desenvolvimento de software.
 
